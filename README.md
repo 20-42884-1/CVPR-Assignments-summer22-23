@@ -1,4 +1,4 @@
 # CVPR[C]-Assignments-summer22-23
-Name: Mubashir Mohsin
-ID: 20-42884-1
+Name: MUBASHIR MOHSIN<br>
+ID: 20-42884-1<br>
 Semester: Summer22-23
