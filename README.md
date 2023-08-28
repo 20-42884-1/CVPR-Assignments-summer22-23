@@ -15,7 +15,7 @@ Finalterm Assignment-2 Pushed : 09th August, 2023<br><br>
 
 ### Final Project Timeline
 Project Started: 25th July, 2023<br>
-Project Presentation: 6th August, 2023
-Project Initialization<t>: 8th August, 2023
-Project Finished: 23rd August, 2023
-Project Report Submission: 25th August, 2023
+Project Presentation: 6th August, 2023<br>
+Project Initialization<t>: 8th August, 2023<br>
+Project Finished: 23rd August, 2023<br>
+Project Report Submission: 25th August, 2023<br>
