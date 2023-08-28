@@ -12,3 +12,10 @@ Midterm Assignment-2 Pushed : 15th July, 2023 <br><br>
 ### Finalterm Push Status
 Finalterm Assignment-1 Pushed : 29th July, 2023<br>
 Finalterm Assignment-2 Pushed : 09th August, 2023<br><br>
+
+### Final Project Timeline
+Project Started: 25th July, 2023<br>
+Project Presentation: 6th August, 2023
+Project Initialization<t>: 8th August, 2023
+Project Finished: 23rd August, 2023
+Project Report Submission: 25th August, 2023
